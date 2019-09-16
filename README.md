@@ -1,29 +1,14 @@
 # control-forstal-api-test
 
-## Project setup
+## .ENV
+Copia el archivo `.env` a uno `.env.local` y agregale el valor de la variable `VUE_APP_API_TOKEN`
+
+## Instalar dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Correr la App
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
